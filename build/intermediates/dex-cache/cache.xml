@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_832e1bae6ee0ab34b8de32a96272fcc6091a8b3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_15d5ab2b6f1b322afb63b6377f04bf46f9d42105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_6166d965bf416cbc5d2bd1f9cc0752e931ec155d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_15d5ab2b6f1b322afb63b6377f04bf46f9d42105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6166d965bf416cbc5d2bd1f9cc0752e931ec155d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_832e1bae6ee0ab34b8de32a96272fcc6091a8b3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_60dfba37568a1e7a7f2de3abb7ae1e16ef6b93ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_a86876f4ce4b0efe15d5aa578667341156d2c240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_60dfba37568a1e7a7f2de3abb7ae1e16ef6b93ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a86876f4ce4b0efe15d5aa578667341156d2c240/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_58a0d4aefea991efe1e97f83f8d63c21494b6324/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26bd718698f779e9c922eea106ec92207932e8ca">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_048f29e5cebceff158d05d9f2e756a4403b120ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_58a0d4aefea991efe1e97f83f8d63c21494b6324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d2e1476c5784006459838e0fcc2da3934929cbe1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d2e1476c5784006459838e0fcc2da3934929cbe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cc9190e275690423bbfc98a29872c9bf40abe323.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_cc9190e275690423bbfc98a29872c9bf40abe323/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_43bd4a3b2e11f7ae0f73dd6db653af0160efa781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f1e8faba25a164d23b6bc8f56033c4fa289bef4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f1e8faba25a164d23b6bc8f56033c4fa289bef4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bacf9f1a740a0a0358cba8b98097132793d71158">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1a58e7978f34abab8b52a1c006413f4a8535ba13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_43bd4a3b2e11f7ae0f73dd6db653af0160efa781/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6d21cbf1f650cb0439f05ec568b9a873869af08d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_8a426da926138c2ea150d6297da5d1529b8050a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_13b4c8dd2eddbf3f77263504e9a737b71809ff53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_6d21cbf1f650cb0439f05ec568b9a873869af08d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f725d988879f8f787319b6dd2520431315f95a76/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_9c4307ed64e46784cf3f24aad721e1c0c1131b36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_13b4c8dd2eddbf3f77263504e9a737b71809ff53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_8a426da926138c2ea150d6297da5d1529b8050a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9c4307ed64e46784cf3f24aad721e1c0c1131b36/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f725d988879f8f787319b6dd2520431315f95a76.jar" />
+    </item>
+
+</items>

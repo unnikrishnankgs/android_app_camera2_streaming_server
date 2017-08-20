@@ -1,0 +1,7 @@
+#Tue Apr 11 12:16:00 PDT 2017
+base.0=/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1a58e7978f34abab8b52a1c006413f4a8535ba13
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_048f29e5cebceff158d05d9f2e756a4403b120ca/classes.dex
+base.1=/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_048f29e5cebceff158d05d9f2e756a4403b120ca
+file.0=/Users/gotham/work/research/android/Camera2Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1a58e7978f34abab8b52a1c006413f4a8535ba13/classes.dex
